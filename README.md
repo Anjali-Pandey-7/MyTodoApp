@@ -76,10 +76,6 @@ python3 todo_app_themes.py
 
 - `todo_app_themes.py` - Main application file
 - `requirements.txt` - Python dependencies
-- `setup.bat` - Windows auto-setup script
-- `setup.sh` - Mac/Linux auto-setup script
-- `FRIEND_SETUP_GUIDE.md` - Setup instructions for friends
-- `THEME_SYSTEM_GUIDE.md` - How the theme system works
 - `README.md` - This file
 
 ## 🎨 Theme System
@@ -216,10 +212,9 @@ A: Yes, using PyInstaller to create an executable file.
 ## 📞 Support
 
 For help:
-1. Check the `FRIEND_SETUP_GUIDE.md`
-2. Read the `THEME_SYSTEM_GUIDE.md`
-3. Check closed GitHub issues
-4. Create a new GitHub issue
+1. Contact anjalipandey708438@gmail.com
+2. Check closed GitHub issues
+3. Create a new GitHub issue
 
 ## 🌟 Star This Repo!
 
